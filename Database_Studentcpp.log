@@ -1,0 +1,85 @@
+﻿  Database_Studentcpp.cpp
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(91): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(91): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(94): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(94): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(97): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(97): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(100): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(100): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(103): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(103): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(106): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(106): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(109): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(109): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(183): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(183): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(186): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(186): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(189): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(189): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(192): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(192): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(195): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(195): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(198): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(198): error C2109: subscript requires array or pointer type
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(201): error C3867: 'std::vector<std::vector<student,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::push_back': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=student
+          ]
+c:\users\andresmauricio\source\repos\database_studentcpp\database_studentcpp\database_studentcpp.cpp(201): error C2109: subscript requires array or pointer type
